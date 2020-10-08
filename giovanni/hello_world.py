@@ -1,4 +1,3 @@
 #!/usr/bin/python
 
-
-print("cantante autista")
+print("pizza spagetti")
