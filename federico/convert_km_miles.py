@@ -1,6 +1,9 @@
 #!/usr/bin/python
+import random
 
-km = input("Write the km and I'll convert in mikles ")
+print(random.randint(0,9))
+
+km = (random.randint)
 miles = (km * 0.62)
 print (miles)
 
