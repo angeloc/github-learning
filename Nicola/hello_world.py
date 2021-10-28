@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("angolo è sus!")
+print("angolo è belloooo!")
