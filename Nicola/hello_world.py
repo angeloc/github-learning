@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("Ciao pirla!")
+print("angolo è fantastico!")
