@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 
-print("bye let's go doing enduro")
+print("How you doing man?")
